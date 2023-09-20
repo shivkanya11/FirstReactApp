@@ -1,0 +1,13 @@
+.mble-card{
+    background-color: rgb(5, 42, 74);
+    width: 280px;
+    height: 300px;
+    margin: 10px;
+    padding: 5px;
+    padding-top: 15px;
+    border-radius: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 10px;
+    text-align: center;
+}
